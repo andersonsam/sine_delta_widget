@@ -1,0 +1,5 @@
+ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1694607144474/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1667504979095/work
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1666788470527/work
+scipy==1.9.3
